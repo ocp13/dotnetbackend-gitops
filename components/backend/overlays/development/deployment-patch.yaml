@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/asshutossh/backend:858a22f7e9fb3bdf7e491d1f7ccc24bb351708b4@sha256:c7936d601bd2842151d047fb073920eb59ff228e40a19ecf9de87bc71248d3ac
+        - image: quay.io/asshutossh/backend:858a22f7e9fb3bdf7e491d1f7ccc24bb351708b4@sha256:a79d1f543d7d9ccf8fb9e42ac36b547790b258c1cc967965b0621bcdbfc1263c
           name: container-image
